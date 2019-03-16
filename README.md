@@ -1,6 +1,7 @@
 # Asymmetric encryption and decryption using RSA
 
-In this project, RSA encryption and decryption algotihm is implemented using C++. 
+In this project, RSA encryption and decryption algotihm is implemented using C++.  
+
 This repo is developled for the Discrete Mathematics class taken in Fall 2017
 
 
